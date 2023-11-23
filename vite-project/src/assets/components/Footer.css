@@ -11,7 +11,8 @@
 
 .footerstyle a {
   font-size: 0.75rem;
-  font-family: poppinsRegular;
+  font-family: "Poppins";
+  font-weight: 400;
   margin-top: 4rem;
   color: #90a0d9;
 }

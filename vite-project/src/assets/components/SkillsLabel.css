@@ -1,6 +1,7 @@
 .labelstyle {
   font-size: 0.75rem;
-  font-family: poppinsRegular;
+  font-family: "Poppins";
+  font-weight: 400;
   color: #bdbddd;
   padding: 0.5rem 0.75rem;
   background-color: #2a2f4c;

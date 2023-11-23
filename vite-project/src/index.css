@@ -11,29 +11,27 @@
   text-align: center;
   padding-inline: 15%;
 }
-
-@font-face {
-  font-family: poppinsBold;
-  src: url(./assets/fonts/Poppins-Bold.ttf);
+h1 {
+  font-size: 2.5rem;
+  font-family: "Poppins";
+  font-weight: 600;
+  color: #cdcdff;
 }
-
-@font-face {
-  font-family: poppinsRegular;
-  src: url(./assets/fonts/Poppins-Regular.ttf);
-}
-
 h2 {
   font-size: 1.5rem;
-  font-family: poppinsBold;
+  font-family: "Poppins";
+  font-weight: 600;
   color: #cdcdff;
 }
 p {
   font-size: 0.75rem;
-  font-family: poppinsRegular;
+  font-family: "Poppins";
+  font-weight: 400;
   color: #bdbddd;
 }
 h3 {
   font-size: 1rem;
-  font-family: poppinsBold;
+  font-family: "Poppins";
+  font-weight: 600;
   color: #cdcdff;
 }

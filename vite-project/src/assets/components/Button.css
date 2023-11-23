@@ -1,7 +1,8 @@
 .buttonstyle {
   padding: 0.5rem 1rem;
   font-size: 10px;
-  font-family: poppinsRegular;
+  font-family: "Poppins";
+  font-weight: 400;
   background-color: #23283e;
   border: 1px solid #90a0d9;
   color: #90a0d9;
