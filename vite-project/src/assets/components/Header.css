@@ -1,0 +1,19 @@
+.headerbox {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+.headerbox h1 {
+  font-size: 2.5rem;
+  font-family: poppinsBold;
+  color: #cdcdff;
+}
+.headerbox h1 span {
+  color: #90a0d9;
+}
+
+.headerbox p {
+  width: 60%;
+}

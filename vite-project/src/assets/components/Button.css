@@ -1,0 +1,23 @@
+.buttonstyle {
+  padding: 0.5rem 1rem;
+  font-size: 10px;
+  font-family: poppinsRegular;
+  background-color: #23283e;
+  border: 1px solid #90a0d9;
+  color: #90a0d9;
+  background-image: linear-gradient(
+    to right,
+    #90a0d9 49.9%,
+    #90a0d9 49.9%,
+    #23283e 50%,
+    #23283e 50%
+  );
+  transition: all linear 0.3s;
+  background-size: 200%;
+  background-position: 100% 0;
+}
+
+.buttonstyle:hover {
+  background-position: 0, 0;
+  color: #23283e;
+}

@@ -1,0 +1,16 @@
+.navbar {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  background-color: #23283e;
+  align-items: center;
+}
+.navbar p {
+  font-size: 1rem;
+  font-family: poppinsBold;
+  color: #90a0d9;
+}
+.navbar div {
+  display: flex;
+  gap: 1rem;
+}
